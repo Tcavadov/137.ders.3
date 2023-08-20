@@ -1,0 +1,31 @@
+.header{
+    background-color: blue;
+
+
+}
+
+
+.cards{
+    display: flex;
+    max-width: 100%;
+    padding-left: 0;
+}
+.body{
+    background-color: aqua;
+}
+
+.card1{
+    flex: 33%;
+    padding-left: 60px;
+
+}
+.card2{
+    flex: 33%;
+    padding-left: 60px;
+    
+}
+.card3{
+    padding-left: 60px;
+    flex: 33%;
+    
+}
